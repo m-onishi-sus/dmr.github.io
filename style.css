@@ -10,10 +10,10 @@
     align-items: center;
     background-color: #fff;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.8);
-    width: 60vw;
+    width: 20vw;/*60vw;*/
     height: 50vh;
     margin: 100px auto;
-    padding: 20px;
+    padding: 50px;
    }
     
    .card h2 {
